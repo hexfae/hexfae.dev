@@ -11,10 +11,12 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  padding: 0 2rem 8rem 2rem;
 }
 
 p {
   font-size: 4rem;
+  font-weight: bold;
   text-align: center;
   font-family: monospace;
   margin-bottom: 1rem;
