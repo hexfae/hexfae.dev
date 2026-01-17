@@ -13,6 +13,13 @@ body {
   gap: 1rem;
 }
 
+p {
+  font-size: 4rem;
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 1rem;
+}
+
 img {
   border: 0.5rem solid var(--foreground);
   border-radius: 2rem;
