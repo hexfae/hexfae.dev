@@ -28,6 +28,10 @@ img {
   padding: 1rem;
 }
 
+ul {
+  text-align: center;
+}
+
 a {
   color: var(--foreground);
   font-size: 2rem;
