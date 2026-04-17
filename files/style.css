@@ -14,8 +14,16 @@ body {
   padding: 0 2rem 8rem 2rem;
 }
 
-p {
+h1 {
   font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 3rem;
   font-weight: bold;
   text-align: center;
   font-family: monospace;
